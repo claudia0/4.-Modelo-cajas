@@ -1,0 +1,10 @@
+div {
+  	
+  height: 50px;	
+  width: 600px;
+  padding-left:  80px;
+  padding-right: 50px;
+  margin-left:   30px;
+  margin-right:  30px;
+  border: 10px solid violet;
+}
